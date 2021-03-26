@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercado_uno>
+	<id>1</id>
+	<nombre>Mercadona</nombre>
+	<direccion>Calle Huertas, 23</direccion>
+	<geolocalizacion>41°24'12.2 N</geolocalizacion>
+	<geolocalizacion>5°13'22.0 E</geolocalizacion>
+	<lugar>Sevilla</lugar>
+	<horarioApertura>Lunes a Sábado de 9 - a 21h</horarioApertura>
+	<productos>
+		<id>unoMercadona</id>
+		<nombre>leche entera</nombre>
+		<seccion>lácteos</seccion>
+		<descripcion>leche entera Hacendado</descripcion>
+		<origen>España</origen>
+		<oferta>false</oferta>
+		<pvp>1.5</pvp>
+		<formato>1 litro</formato>
+		<habitual>true</habitual>
+		<adquirido>true</adquirido>
+	</productos>
+	<productos>
+		<id>dosMercadona</id>
+		<nombre>salmón ahumado</nombre>
+		<seccion>pescadería</seccion>
+		<descripcion>salmón ahumado en lonchas</descripcion>
+		<origen>Noruega</origen>
+		<oferta>true</oferta>
+		<vigenciaOferta>24/03/21</vigenciaOferta>
+		<vigenciaOferta>28/03/21</vigenciaOferta>
+		<pvp>3.75</pvp>
+		<pvpRebajado>2.55</pvpRebajado>
+		<formato>200 grs.</formato>
+		<habitual>false</habitual>
+		<adquirido>false</adquirido>
+	</productos>
+	<productos>
+		<id>tresMercadona</id>
+		<nombre>huevos camperos</nombre>
+		<seccion>lácteos</seccion>
+		<descripcion>huevos gallinas camperas</descripcion>
+		<origen>España</origen>
+		<oferta>false</oferta>
+		<pvp>1.99</pvp>
+		<formato>media docena</formato>
+		<habitual>true</habitual>
+		<adquirido>true</adquirido>
+	</productos>
+	<productos>
+		<id>cuatroMercadona</id>
+		<nombre>manzanas golden</nombre>
+		<seccion>frutería</seccion>
+		<descripcion>manzanas golden francia</descripcion>
+		<origen>Francia</origen>
+		<oferta>true</oferta>
+		<vigenciaOferta>24/03/21</vigenciaOferta>
+		<vigenciaOferta>24/04/21</vigenciaOferta>
+		<pvp>1.69</pvp>
+		<pvpRebajado>0.95</pvpRebajado>
+		<formato>1 kg.</formato>
+		<habitual>true</habitual>
+		<adquirido>false</adquirido>
+	</productos>
+	<productos>
+		<id>cincoMercadona</id>
+		<nombre>queso fresco</nombre>
+		<seccion>lácteos</seccion>
+		<descripcion>queso fresco entrepinares</descripcion>
+		<origen>España</origen>
+		<oferta>false</oferta>
+		<pvp>4.55</pvp>
+		<formato>500 grs.</formato>
+		<habitual>false</habitual>
+		<adquirido>true</adquirido>
+	</productos>
+</supermercado_uno>

@@ -1,0 +1,259 @@
+{
+    "supermercado uno": [
+      {
+        "id": 1,
+        "nombre": "Mercadona",
+        "direccion": "Calle Huertas, 23",
+        "geolocalizacion": [
+          "41°24'12.2 N",
+          "5°13'22.0 E"
+        ],
+        "lugar": "Sevilla",
+        "horarioApertura": "Lunes a Sábado de 9 - a 21h",
+        "productos": [
+          {
+            "id": "unoMercadona",
+            "nombre": "leche entera",
+            "seccion": "lácteos",
+            "descripcion": "leche entera Hacendado",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 1.5,
+            "formato": "1 litro",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "dosMercadona",
+            "nombre": "salmón ahumado",
+            "seccion": "pescadería",
+            "descripcion": "salmón ahumado en lonchas",
+            "origen": "Noruega",
+            "oferta": true,
+            "vigenciaOferta": [
+              "24/03/21",
+              "28/03/21"
+            ],
+            "pvp": 3.75,
+            "pvpRebajado": 2.55,
+            "formato": "200 grs.",
+            "habitual": false,
+            "adquirido": false
+          },
+          {
+            "id": "tresMercadona",
+            "nombre": "huevos camperos",
+            "seccion": "lácteos",
+            "descripcion": "huevos gallinas camperas",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 1.99,
+            "formato": "media docena",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "cuatroMercadona",
+            "nombre": "manzanas golden",
+            "seccion": "frutería",
+            "descripcion": "manzanas golden francia",
+            "origen": "Francia",
+            "oferta": true,
+            "vigenciaOferta": [
+              "24/03/21",
+              "24/04/21"
+            ],
+            "pvp": 1.69,
+            "pvpRebajado": 0.95,
+            "formato": "1 kg.",
+            "habitual": true,
+            "adquirido": false
+          },
+          {
+            "id": "cincoMercadona",
+            "nombre": "queso fresco",
+            "seccion": "lácteos",
+            "descripcion": "queso fresco entrepinares",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 4.55,
+            "formato": "500 grs.",
+            "habitual": false,
+            "adquirido": true
+          }
+        ]
+      }
+    ],
+    "supermercado dos": [
+      {
+        "id": 2,
+        "nombre": "Lidl",
+        "direccion": "Plaza de la Libertad, s/n",
+        "geolocalizacion": [
+          "23°10'0.13 S",
+          "40°22'15.35 O"
+        ],
+        "lugar": "Sevilla",
+        "horarioApertura": "Lunes a Sábado de 9 - 21:30h",
+        "productos": [
+          {
+            "id": "unoLidl",
+            "nombre": "yogur natural",
+            "seccion": "lácteos",
+            "descripcion": "yogur natural sin azúcar hacendado",
+            "origen": "Portugal",
+            "oferta": true,
+            "vigenciaOferta": "1/05/21",
+            "pvp": 1.65,
+            "pvpRebajado": 1.4,
+            "formato": "pack de 6 x 125 grs.",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "dosLidl",
+            "nombre": "pan de centeno",
+            "seccion": "panadería",
+            "descripcion": "pan de centeno formato ahorro",
+            "origen": "Alemania",
+            "oferta": false,
+            "pvp": 2.75,
+            "formato": "1 kg.",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "tresLidl",
+            "nombre": "aceite de oliva",
+            "seccion": "conservas",
+            "descripcion": "aceite de oliva virgen extra coosur",
+            "origen": "España",
+            "oferta": true,
+            "vigenciaOferta": [
+              "01/03/21",
+              "30/03/21"
+            ],
+            "pvp": 1.85,
+            "pvpRebajado": 1.45,
+            "formato": "1 L.",
+            "habitual": true,
+            "adquirido": false
+          },
+          {
+            "id": "cuatroLidl",
+            "nombre": "brócoli",
+            "seccion": "frutería",
+            "descripcion": "brócoli manojo huerta",
+            "origen": "Portugal",
+            "oferta": false,
+            "pvp": 0.85,
+            "formato": "1 kg.",
+            "habitual": false,
+            "adquirido": true
+          },
+          {
+            "id": "cincoLidl",
+            "nombre": "garbanzos",
+            "seccion": "conservas",
+            "descripcion": "garbanzos cocidos conserva",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 1.78,
+            "formato": "500 grs.",
+            "habitual": true,
+            "adquirido": true
+          }
+        ]
+      }
+    ],
+    "supermercado tres": [
+      {
+        "id": 3,
+        "nombre": "Carrefour",
+        "direccion": "Pol. Industrial El Jacaral, calle Metalurgia 5",
+        "geolocalizacion": [
+          "5°34'12.1 N",
+          "13°55'43.23 E"
+        ],
+        "lugar": "Sevilla",
+        "horarioApertura": "Lunes a Sábado de 9:30 - 22h",
+        "productos": [
+          {
+            "id": "unoCarrefour",
+            "nombre": "cerveza",
+            "seccion": "bebidas y refrescos",
+            "descripcion": "cerveza reserva pilsen Alhambra",
+            "origen": "España",
+            "oferta": true,
+            "vigenciaOferta": [
+              "1/03/21",
+              "1/04/21"
+            ],
+            "pvp": 8.55,
+            "pvpRebajado": 6.4,
+            "formato": "pack de 6 x 33 cl.",
+            "habitual": false,
+            "adquirido": false
+          },
+          {
+            "id": "dosCarrefour",
+            "nombre": "calamar",
+            "seccion": "congelados",
+            "descripcion": "calamar troceado congelado",
+            "origen": "Marruecos",
+            "oferta": true,
+            "vigenciaOferta": [
+              "27/03/21",
+              "30/03/21"
+            ],
+            "pvp": 5.35,
+            "pvpRebajado": 3.95,
+            "formato": "1 kg.",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "tresCarrefour",
+            "nombre": "arroz basmati",
+            "seccion": "pastas y arroz",
+            "descripcion": "arroz basmati jazmín",
+            "origen": "China",
+            "oferta": false,
+            "pvp": 2.3,
+            "formato": "1 kg.",
+            "habitual": false,
+            "adquirido": false
+          },
+          {
+            "id": "cuatroCarrefour",
+            "nombre": "pimienta molida",
+            "seccion": "salsas y condimentos",
+            "descripcion": "pimienta mezcla molida molinillo",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 0.65,
+            "formato": "45 grs.",
+            "habitual": true,
+            "adquirido": false
+          },
+          {
+            "id": "cincoCarrefour",
+            "nombre": "chocolate negro",
+            "seccion": "dulces",
+            "descripcion": "chocolate negro 85%",
+            "origen": "Ecuador",
+            "oferta": true,
+            "vigenciaOferta": [
+              "27/03/21",
+              "30/03/21"
+            ],
+            "pvp": 2.75,
+            "pvpRebajado": 2,
+            "formato": "200 grs.",
+            "habitual": true,
+            "adquirido": true
+          }
+        ]
+      }
+    ]
+  }
